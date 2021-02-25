@@ -4,7 +4,7 @@ var authConfig = {
   client_id: "",
   client_secret: "",
   refresh_token: "", // 授权 token
-  domain: "", // 面页中显示本站团队盘域, 可不填
+  domain: "", // 面页中显示本站团队盘域, 可不填 
   // 黑名单, 免费版没有数据库, 一个可行思路是从自己服务器上获取, 可自行实现
   black_list: ["example@gmail.com"]
 };
