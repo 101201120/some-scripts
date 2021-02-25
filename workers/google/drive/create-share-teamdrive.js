@@ -62,24 +62,24 @@ var html = `
               <form id="teamDriveForm">
                 <div class="form-group">
                   <label for="teamDriveName" class="sr-only">
-                    TeamDrive 名称
+                    TeamDrive gd
                   </label>
                   <input
                     type="text"
                     class="form-control"
                     id="teamDriveName"
-                    placeholder="TeamDrive 名称"
+                    placeholder="TeamDrive gd"
                   />
                 </div>
                 <div class="form-group">
                   <label for="emailAddress" class="sr-only">
-                    您的GMail邮箱地址
+                    mufengjue53@gmail.com
                   </label>
                   <input
                     type="email"
                     class="form-control"
                     id="emailAddress"
-                    placeholder="您的GMail邮箱地址"
+                    placeholder="mufengjue53@gmail.com"
                   />
                 </div>
                 <div class="form-check">
